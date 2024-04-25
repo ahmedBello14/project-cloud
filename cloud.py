@@ -63,7 +63,7 @@ def visualize_word_frequency(word_freq):
 
 def main():
     
-    file_path = "random_paragraphs.txt"
+    file_path = "c:\Users\Mega Store\OneDrive - Alexandria University\Documents\project cloud\random_paragraphs.txt"
     
     text = read_file(file_path)
     if text is None:
